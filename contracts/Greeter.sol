@@ -23,4 +23,3 @@ contract Greeter {
         greeting = _greeting;
     }
 }
-ß
